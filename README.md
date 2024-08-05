@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TenseiHei
+- 👋 Hi, I’m @Wonder Oladunjoye
 - 👀 I’m interested in ... Playing football
-- 🌱 I’m currently learning ... Object oriented programming
+- 🌱 I’m currently learning ... .NET Core MVC
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... itz.wondee@gmail.com
 - ⚡ Fun fact: ... How you treat yourself is how others treat you
