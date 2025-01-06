@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wonder Oladunjoye
 - 👀 I’m interested in ... Software Development
 - 🌱 I’m currently learning ... .NET Core MVC
-- 💞️ I’ll be learning ... Angular and SpringBoot next
+- 🌱 Up next I’ll be learning ... Angular and SpringBoot
 - 📫 How to reach me ... wonder01oladunjoye@gmail.com
 - ⚡ Fun fact: ... How you treat yourself is how others treat you
 
