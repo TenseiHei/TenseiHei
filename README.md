@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wonder Oladunjoye
+- 👋 Hi, I’m Wonder Oladunjoye
 - 👀 I’m interested in ... Software Development
 - 🌱 I’m currently learning ... .NET Core MVC
 - 🌱 Up next I’ll be learning ... Angular and SpringBoot
