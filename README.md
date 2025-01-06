@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Wonder Oladunjoye
-- 👀 I’m interested in ... Playing football
+- 👀 I’m interested in ... Software Development
 - 🌱 I’m currently learning ... .NET Core MVC
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... itz.wondee@gmail.com
+- 💞️ I’ll be learning ... Angular and SpringBoot next
+- 📫 How to reach me ... wonder01oladunjoye@gmail.com
 - ⚡ Fun fact: ... How you treat yourself is how others treat you
 
 <!---
